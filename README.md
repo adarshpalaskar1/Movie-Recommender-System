@@ -65,3 +65,15 @@ items based on the user’s past preferences.
 
 For complete implementation details and outputs refer 
 to this [file.](https://github.com/adarshpalaskar1/Movie-Recommender-System/blob/main/Implementation%20-%20Jupyter%20Notebook.pdf)
+
+
+## Demo
+
+You can choose to select the movies according to your preferred answer for all the questions, or simply put any movie you like or hate which will be
+indicated to the ML model by the rating you enter. 
+
+![Movie-Recommendation-System](https://user-images.githubusercontent.com/83298237/190182554-3719a198-e1e5-455d-9139-a30e564d12fb.png)
+
+
+
+![Movie-Recommendation-System](https://user-images.githubusercontent.com/83298237/190182554-3719a198-e1e5-455d-9139-a30e564d12fb.png)
