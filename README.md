@@ -74,6 +74,3 @@ indicated to the ML model by the rating you enter.
 
 ![Movie-Recommendation-System](https://user-images.githubusercontent.com/83298237/190182554-3719a198-e1e5-455d-9139-a30e564d12fb.png)
 
-
-
-![Movie-Recommendation-System](https://user-images.githubusercontent.com/83298237/190182554-3719a198-e1e5-455d-9139-a30e564d12fb.png)
