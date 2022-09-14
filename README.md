@@ -47,3 +47,6 @@ in the terminal.
 
 5. Yay! You can now test the code and raise an issue if you find any
 bugs or suggestions.
+
+## Application Architecture
+![Architecture](https://user-images.githubusercontent.com/83298237/190175048-f387d662-9385-49fd-9a6b-dc95bacf1a0b.png)
