@@ -50,3 +50,18 @@ bugs or suggestions.
 
 ## Application Architecture
 ![Architecture](https://user-images.githubusercontent.com/83298237/190175048-f387d662-9385-49fd-9a6b-dc95bacf1a0b.png)
+
+## Overview of ML Algorithms used
+![Project_Overview](https://user-images.githubusercontent.com/83298237/190177646-422a177d-749b-4294-b7d1-28d1d5d51918.png)
+
+1. Collaborative Filtering - Collaborative filtering approaches build a model from the user’s past
+behaviour as well as similar decisions made by other users. This model is then used to predict
+items that users may have an interest in.
+
+2. Content based Filtering - Content-based filtering approaches use discrete characteristics of
+an item in order to recommend additional items with similar properties. They are totally
+based on a description of the item and a profile of the user’s preferences. It recommends
+items based on the user’s past preferences.
+
+For complete implementation details and outputs refer 
+to this [file.](https://github.com/adarshpalaskar1/Movie-Recommender-System/blob/main/Implementation%20-%20Jupyter%20Notebook.pdf)
