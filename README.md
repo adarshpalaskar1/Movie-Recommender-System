@@ -1,8 +1,10 @@
 # Movie Recommender using Multiple user inputs and ratings and TMDB API
 
-Recommendation system built using multiple ML models that aims to 
-predict users' interests based on their past behavior and 
-preferences.
+Recommendation systems use a class of algorithms that can suggest relevant items to the users.
+This Movie Recommendation system built using multiple ML models aims to 
+predict users' interests based on their past behavior and preferences.
+
+The application is deployed at - https://movie-recommender-userprofile.herokuapp.com/
 
 It uses MovieLens data containing two hundred thousand reviews 
 on about 10000 different movies. The n-dimensional linear 
@@ -16,8 +18,6 @@ movies using the API data and also filters out crime and adult
 genre movies using the dataset. The code also contains three 
 more ML models that use K-nearest neighbors, TF-IDF 
 vectorization, and Cosine and Pearson similarities.
-
-The application is deployed at - https://movie-recommender-userprofile.herokuapp.com/
 
 Streamlit - https://streamlit.io/
 
@@ -69,7 +69,7 @@ to this [file.](https://github.com/adarshpalaskar1/Movie-Recommender-System/blob
 
 ## Demo
 
-You can choose to select the movies according to your preferred answer for all the questions, or simply put any movie you like or hate which will be
+You can choose to select the movies according to your preferred answer for all the questions, or simply put any movie you like or dislike which will be
 indicated to the ML model by the rating you enter. 
 
 ![Movie-Recommendation-System](https://user-images.githubusercontent.com/83298237/190182554-3719a198-e1e5-455d-9139-a30e564d12fb.png)
