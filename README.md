@@ -4,7 +4,7 @@ Recommendation systems use a class of algorithms that can suggest relevant items
 This Movie Recommendation system built using multiple ML models aims to 
 predict users' interests based on their past behavior and preferences.
 
-The application is deployed at - https://movie-recommender-userprofile.herokuapp.com/
+The application is deployed at - https://movie-recommender-6dk4.onrender.com/
 
 It uses MovieLens data containing two hundred thousand reviews 
 on about 10000 different movies. The n-dimensional linear 
